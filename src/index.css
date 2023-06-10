@@ -4,11 +4,12 @@
 body {
   font-family: sans-serif;
   line-height: 1.5;
+  height: 100%;
   box-sizing: border-box;
   background-color: #e6eaf2;
   background-image: url(./background.jpg);
   background-size: cover;
-  background-position: center;
+  background-repeat: no-repeat;
 }
 h1,
 h2,
